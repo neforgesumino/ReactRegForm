@@ -8,3 +8,8 @@ A simple React registration form with validation, I used custom hooks and static
 Превью / Preview:
 
 
+![](windows/window1.png)
+
+![](windows/window2.png)
+
+![](windows/window3.png)
